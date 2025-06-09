@@ -1,0 +1,3 @@
+dynamodb - the free tier for DynamoDB provides 25GB of storage, 
+           along with 25 provisioned Write and 25 provisioned Read Capacity Units (WCU, RCU) which is enough to handle 
+           200M requests per month.
