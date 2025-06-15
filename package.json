@@ -1,0 +1,26 @@
+{
+  "name": "croissant",
+  "version": "1.0.0",
+  "description": "flashcards",
+  "main": "FlashCard.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Evowe/Croissant.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Ben Collett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Evowe/Croissant/issues"
+  },
+  "homepage": "https://github.com/Evowe/Croissant#readme",
+  "devDependencies": {
+    "jest": "^30.0.0"
+  }
+}
