@@ -1,0 +1,18 @@
+Will likely use DynamoDB free tier. Everyone will keep looking at exterior software to use.
+
+Assignments for the week:
+  - Ethan: Starting working on login / create account functionality
+  - Andrew: Start programming the email client this week
+  - Ben: Flashcards fully finished (Work with Nathan)
+  - Nathan: Help with Ben / Maybe start Dashboard
+
+Absolute Base Case Use Cases:
+  - Account Creation
+  - Login 
+  - Flashcards (Creating, editing, storing, studying)
+  - Landing Page / Dashboard
+  - View existing sets
+  - Profile Page
+  - Statistics
+  - Reminders
+  - Testing functionilty
